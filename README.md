@@ -1,4 +1,4 @@
-# Photofolio
+# Portfolio
 어느 개발자의 포토폴리오 입니다.
 
 1. [개인프로젝트(Python) - MyWebCrawler](https://github.com/HeeSeungYoon/MyWebCrawler)
