@@ -1,5 +1,5 @@
 # Portfolio
-어떤 개발자의 포트폴리오 입니다.
+한 개발자의 포트폴리오 입니다.
 
 1. [개인프로젝트(Python) - MyWebCrawler](https://github.com/HeeSeungYoon/MyWebCrawler)
 2. [개인프로젝트(C) - MyKiosk](https://github.com/HeeSeungYoon/MyKiosk)
