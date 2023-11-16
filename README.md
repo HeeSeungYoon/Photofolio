@@ -1,4 +1,4 @@
-# [Portfolio](portfolio_윤희승.pdf)(pdf 파일)
+# [Portfolio](Portfolio_윤희승.pdf)(pdf 파일)
 한 개발자의 포트폴리오 입니다.
 
 1. [Trip.com기반 여행지 추천 시스템](https://github.com/HeeSeungYoon/how_about_this_place)
