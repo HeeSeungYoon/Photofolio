@@ -8,6 +8,6 @@
 4. [개인프로젝트(Python) - MyWebCrawler](https://github.com/HeeSeungYoon/MyWebCrawler) : Selenium 모듈을 사용한 이미지 크롤링 프로그램
 5. [개인프로젝트(C) - MyKiosk](https://github.com/HeeSeungYoon/MyKiosk) : 스타벅스 메뉴 Kiosk
 6. [디자인 패턴 정리(Python)](https://github.com/HeeSeungYoon/DesignPattern)
-
+7. [기술 블로그](https://heeseungyoon.github.io)
 ---
 Contact : <iyhs1858@gmail.com> 
