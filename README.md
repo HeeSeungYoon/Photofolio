@@ -1,7 +1,7 @@
 # Portfolio by heeseung Yoon
 한 개발자의 포트폴리오 입니다.
 
-- [포토폴리오 pdf](Portfolio_윤희승.pdf)
+- [포토폴리오 pdf](윤희승_포토폴리오.pdf)
 - [기술 블로그](https://heeseungyoon.github.io)
 
 ## Project Github Link
