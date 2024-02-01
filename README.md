@@ -3,6 +3,7 @@
 
 - [포토폴리오 pdf](윤희승_포토폴리오.pdf)
 - [기술 블로그](https://heeseungyoon.github.io)
+- [딥러닝 모델 논문 구현](https://github.com/HeeSeungYoon/Paper)
 
 ## Project Github Link
   0. [공학석사논문 - 적대적 생성 신경망 기반의 영상 분할 기법을 이용한 망막 혈관 분할 방법](https://github.com/HeeSeungYoon/Heeseung-Yoon-Masterpaper)
