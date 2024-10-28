@@ -1,8 +1,8 @@
 # Portfolio by heeseung Yoon
 한 개발자의 포트폴리오 입니다.
 
-- [포토폴리오 pdf](윤희승_포토폴리오.pdf)
-- [기술 블로그](https://heeseungyoon.github.io)
+- [포토폴리오 pdf](윤희승_Portfolio.pdf)
+- [기술 블로그](https://positive-jitterbug-298.notion.site/About-Me-709ec8ad77c24df5823ba38677f6d874)
 - [딥러닝 모델 논문 구현](https://github.com/HeeSeungYoon/Paper)
 
 ## Project Github Link
